@@ -1,4 +1,4 @@
-package fr.uvsq.uvsq21600767;
+package fr.uvsq.uvsq21602357;
 
 public class UneClasseMetier {
 	AffichageMetier affichageMetier;
